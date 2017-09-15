@@ -112,7 +112,7 @@
                         <version>3.0.0</version>
                         <configuration>
                             <outputDirectory>webapps</outputDirectory>
-                            <warName>ROOT</warName>
+                            <warName>Adore_india_project</warName>
                         </configuration>
                     </plugin>
                 </plugins>
